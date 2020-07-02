@@ -1,0 +1,43 @@
+body
+{
+	background-color: teal;
+	font-family: arial;
+}
+a
+{
+	color: darkblue;
+	float: middle;
+	text-decoration: none;
+}
+a:visited
+{
+	color: orange;
+}
+a:hover
+{
+	font-style: italic;
+	color: blue;
+	text-decoration: underline;
+}
+ol
+{
+	float: right;
+	font-size: 20px; 
+}
+table
+{
+	float: left;
+	top:50px;
+}
+p:hover
+{
+	color:orange;
+}
+#part1:hover
+{
+	visibility: hidden;
+}
+#part2:hover
+{
+	visibility: hidden;
+}
